@@ -51,18 +51,14 @@ import notes
 ### Abertura do arquivo .txt
 
 <img src="images/abre_arquivo.png" alt="Imagem explicativa">
-<br>
 
 ### Apresenta os dados do cliente no arquivo
-
 <img src="images/printa.png" alt="Imagem explicativa">
-<br>
 
 ### Fechando o arquivo .txt
 
 <img src="images/fecha_arquivo.png" alt="Imagem explicativa">
 <br>
-
 
 ## Melhorias Futuras
 
