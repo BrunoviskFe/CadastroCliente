@@ -25,7 +25,7 @@ pip install notes
 ```bash
 python cadastro_cliente.py
 ```
-- Forneçe as informações solicitadas para cada cliente.
+- Fornece as informações solicitadas para cada cliente.
 - O arquivo "dados.txt" será gerado automaticamente, contendo todas as informações fornecidas.
 
 ## Exemplo de uso
